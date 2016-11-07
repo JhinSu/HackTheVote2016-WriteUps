@@ -26,6 +26,12 @@ So I resized the image
 It looks like the flag is just cut up and scrambled. A bit of paint and voila we have the flag. 
 ![image](flag.jpg)
 
+EDIT:
+
+So a more elegant way to solve this challenge is to change the size of the picture in the jpeg heading directly. So you'd get this:
+
+![image](proper_warp_speed.jpg)
+
 ### Flag
 
 `flag{1337_ph0t0_5k1ll5}`

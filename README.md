@@ -9,7 +9,7 @@ There were also network issues that made it hard to access the challenges.
 ## Rankings
 299 out of 1030 teams.
 
-![Screenshot](HackTheVote.jpg)
+![Screenshot](HackTheVote.png)
 
 ### Team Members
 Just Me

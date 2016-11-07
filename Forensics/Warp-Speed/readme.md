@@ -20,6 +20,7 @@ xxd warp_speed.jpg
 I. .a. m. .a. . s.q.u.a. r.e... . A.n.y.o. n.e. .w. h.o. .t. e.l.l.s. .y.o.u. .o.t.h. e.r.w.i. s.e. .i. s. .a. . L.I.A.R. !...
 
 So I resized the image 
+
 ![image](square_warp_speed.jpg)
 
 It looks like the flag is just cut up and scrambled. A bit of paint and voila we have the flag. 

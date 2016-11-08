@@ -17,6 +17,7 @@ So we are given an image...
 ![image](warp_speed.jpg)
 
 xxd warp_speed.jpg
+
 I. .a. m. .a. . s.q.u.a. r.e... . A.n.y.o. n.e. .w. h.o. .t. e.l.l.s. .y.o.u. .o.t.h. e.r.w.i. s.e. .i. s. .a. . L.I.A.R. !...
 
 So I resized the image 
